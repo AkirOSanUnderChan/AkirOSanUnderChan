@@ -1,5 +1,5 @@
 # 💫 About Me:
-Indie game developer with own gamedev studio Akiro Games Studio
+Indie game developer.
 
 
 ## 🌐 Socials:
